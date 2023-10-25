@@ -18,7 +18,7 @@ This Android app is designed to track and display the real-time locations of use
 
 ### Installation
 
-1. Clone the repository to your local machine: git clone https://github.com/yourusername/android-location-tracking-app.git
+1. Clone the repository to your local machine: git clone https://github.com/younesmoujib/tp-G-olocalisation.git
 2. Open the project in Android Studio.
 3. Build and run the app on your Android device or emulator.
 
